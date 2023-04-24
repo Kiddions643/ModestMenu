@@ -1,4 +1,4 @@
-# The best external Mod Menu available
+# The best external Mod Menu available :dollar:
 
 If you don't feel like spending hours grinding for money or just want to protect yourself from God Mode hackers, 
 the ***Modest Menu*** is the right choice.
@@ -6,12 +6,12 @@ Even if you just want to have a little **more fun** in your converted rocket tru
 
 We offer the  **latest, ever-evolving, version** on our [website](https://www.kiddionsmodestmenu.com). You can find all the information about the features of the current version 0.9.8, and their functionality in the [Features section](https://www.kiddionsmodestmenu.com/features) of our Website. Further down, you'll find more technical details listed.
 
-* Status: Undetected
-* Size: 15.3 MB
-* Last Updated: February 20, 2023
-* GTA5 Online Version: 1.66
-* Menu Type: External
-* OS: Windows
+* Status: **Undetected**
+* Size: **15.3 MB** 
+* Last Updated: **February 20, 2023**
+* GTA5 Online Version: **1.66**
+* Menu Type: **External**
+* OS: **Windows**
 
 
 ## How to install / use the Mod Menu?
@@ -20,4 +20,4 @@ We offer the  **latest, ever-evolving, version** on our [website](https://www.ki
 2. Find the downloaded file and extract it.
 3. Start the Game and join a Session, then open the Menu (modest-menu.exe)
 
-Have fun! You can find all features listed and how to use them, again on our [Website](https://www.kiddionsmodestmenu.com).
+Have fun! You can find all features listed and how to use them, again on our [Website](https://www.kiddionsmodestmenu.com) :white_check_mark:
