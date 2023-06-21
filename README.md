@@ -1,4 +1,4 @@
-# The best external Mod Menu available Version 0.9.9 :dollar:
+# The best external Mod Menu available Version 0.9.9 :dollar: (outdated)
 
 If you don't feel like spending hours grinding for money or just want to protect yourself from God Mode hackers, 
 the ***Modest Menu*** is the right choice.
@@ -6,7 +6,7 @@ Even if you just want to have a little **more fun** in your converted rocket tru
 
 We offer the  **latest, ever-evolving, version** on our [website](https://www.kiddionsmodestmenu.com). You can find all the information about the features of the current version 0.9.9, and their functionality in the [Features section](https://www.kiddionsmodestmenu.com/features) of our Website. Further down, you'll find more technical details listed.
 
-* Status: **Undetected**
+* Status: **Outdated**
 * Size: **13.4 MB** 
 * Last Updated: **April 26, 2023**
 * GTA5 Online Version: **1.66**
